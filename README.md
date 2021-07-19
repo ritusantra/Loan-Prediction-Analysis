@@ -4,4 +4,4 @@ Dream Housing Finance company deals in all home loans. They have presence across
 
 This is a standard supervised classification task.
 
-### Guided Project : https://www.youtube.com/watch?v=zDwxGxiNFSo&list=WL&index=4&t=1546s
+### Guided Project Link : https://www.youtube.com/watch?v=zDwxGxiNFSo&list=WL&index=4&t=1546s
